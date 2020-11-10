@@ -51,7 +51,7 @@ function Nav() {
                 </Link>
                 </Menu.Item>
 
-                <Menu.Item key="alipay">
+                <Menu.Item key="dor">
                     <Link to="/reactpokedex/my-pokemon-list">
                         <Icon type="mail" />
                        My Pokemon
