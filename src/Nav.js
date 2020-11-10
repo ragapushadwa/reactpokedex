@@ -45,14 +45,14 @@ function Nav() {
             // selectedKeys={[this.state.current]}
             >
                 <Menu.Item key="all">
-                    <Link to="/rtp/wild-pokemon-list">
+                    <Link to="/reactpokedex/wild-pokemon-list">
                         <Icon type="appstore" />
                         All
                 </Link>
                 </Menu.Item>
 
                 <Menu.Item key="alipay">
-                    <Link to="/rtp/my-pokemon-list">
+                    <Link to="/reactpokedex/my-pokemon-list">
                         <Icon type="mail" />
                        My Pokemon
                 </Link>

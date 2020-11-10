@@ -27,10 +27,10 @@ function App() {
           <div style={{ background: '#fff', padding: 24, minHeight: 380 }}>
             <Switch>
               {/* <Route exact path="/" component={Home} /> */}
-              <Route exact path="/rtp" component={WildPokemonList} />
-              <Route path="/rtp/my-pokemon-list" component={MyPokemonList} />
-              <Route path="/rtp/wild-pokemon-list" component={WildPokemonList} />
-              <Route path="/rtp/wild-pokemon-detail/:id" component={WildPokemonDetail} />
+              <Route exact path="/reactpokedex" component={WildPokemonList} />
+              <Route path="/reactpokedex/my-pokemon-list" component={MyPokemonList} />
+              <Route path="/reactpokedex/wild-pokemon-list" component={WildPokemonList} />
+              <Route path="/reactpokedex/wild-pokemon-detail/:id" component={WildPokemonDetail} />
             </Switch>
           </div>
 
