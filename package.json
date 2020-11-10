@@ -1,6 +1,7 @@
 {
   "name": "reactpokedex",
   "version": "0.1.0",
+  "homepage" : "http://ragapushadwa.github.io/reactpokedex",  
   "private": true,
   "engines": {
     "node": "12.10.0",
