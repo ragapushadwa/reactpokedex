@@ -20,7 +20,7 @@ const loading = false
                     )
                 } else {
                     return (
-                        <Link key={p.name} to={`/rtp/wild-pokemon-detail/${urlx[6]}`}>
+                        <Link key={p.name} to={`/reactpokedex/wild-pokemon-detail/${urlx[6]}`}>
                             <Card
 
                                 hoverable
